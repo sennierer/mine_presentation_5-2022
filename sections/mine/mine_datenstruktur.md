@@ -6,7 +6,7 @@
 <span class="fragment"></span>
 <span class="fragment"></span>
 
-<div data-animate data-src="images/mine_data_layers_2.drawio.svg">
+<div data-animate data-src="images/mine_data_layers_2.drawio.svg" style="margin-bottom: 200%">
 <!--
 { "setup": [
 { "element": "[id*='cell-']", "modifier": "opacity", "parameters": [ 0 ] },

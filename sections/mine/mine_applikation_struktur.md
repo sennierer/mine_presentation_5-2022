@@ -9,7 +9,7 @@
 <span class="fragment step-fade-in-then-out"></span>
 <span class="fragment step-fade-in-then-out"></span>
 
-<div data-animate data-src="images/mine_system_layers.drawio.svg">
+<div data-animate data-src="images/mine_system_layers.drawio.svg" style="padding-bottom: 350%">
 <!--
 { "setup": [
 { "element": "[id*='cell-']", "modifier": "opacity", "parameters": [ 0 ] },
