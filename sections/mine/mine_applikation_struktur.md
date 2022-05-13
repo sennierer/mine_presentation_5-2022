@@ -40,6 +40,31 @@
 
 <aside class="notes">
     <ul>
+        <li>schneller Start Dateneingabe + Interoperabilität -> MINE Modul auf APIS -> APIS in vielen ACDH-CH Projekten im Einsatz</li>
+        <li>SLIDE</li>
+        <li>APIS Ebene Formulare Dateneingabe -> hier heinrich Srbik Mitglied Finanzkommission -> in Feldern Formular automatische Suche bei Tippen -> automatische Suche ausgedehnt auf Referenzresourcen -> zb Fakt, Srbik Dissertation Universität Wien -> tippt "Universität Wien" -> nur Treffer in GND -> bei Auswahl -> System holt Eintrag aus GND -> lokale Kopie -> Vorteile: automatisch angelegt, direkt mit GND verlinkt</li>
+        <li>SLIDE</li>
+        <li>Einige Daten automatisch eingepflegt -> dafür meist kurze Scripte, keine Wiederverwendung -> diese Scripte in Notebooks -> APIS Andockstelle für Notebooks</li>
+        <li>SLIDE</li>
+        <li>viele WissenschaftlerInnen Daten wichtiger als website -> APIS API -> maschinenlesbare Form der Website -> liefert Datensätze in verschiedenen Formaten: Json, TEI, RDF</li>
+        <li>SLIDE</li>
+        <li>APIS allgemeine Funktionen für prosopographische Projekte -> aufbauend darauf MINE -> nutzt selbe Datenbank</li>
+        <li>SLIDE</li>
+        <li>MINE Funktion komplexe Auswertungen -> Abfrageformular, Kombination von Filtern -> links, wichtigste Mitgliedschaft und Klasse -> rechts weitere in Kategorien, zb Nobelpreis, Geschlecht, Beruf</li>
+        <li>SLIDE</li>
+        <li>wenn Kombination ausgewählt -> click auf "Kombinierte Auswertung starten" -> Ergebnis -> linke Seite, weiter einschränken</li>
+        <li>SLIDE</li>
+        <li>enntscheide für Ergebnis -> Profil -> hier Heinrich Srbik -> wichtigste Inormation: Lebensdaten, Beruf, Mitgliedschaften links -> darunter Links Download, Referenzresourcen -> Details in Kategorien rechts (nur wenn Daten auch vorhanden) -> ausserdem Visualisierungen -> später mehr</li>
+        <li>SLIDE</li>
+        <li>vergleichbare Such- Filtermöglichkeiten für Institutionen und Ereignisse</li>
+        <li>SLIDE</li>
+        <li>Visualisierungen größere Gruppen und Einzelpersonen -> hier ersten 1000 Verbindungen wMs Kommissionen</li>
+        <li>SLIDE</li>
+        <li>Beispiel biographische Ortspunkte -> hier Heinrich Srbik -> Geburt in Wien -> Tod Ehrwald (Tirol) -> Zeitstrahl Punkte Events -> Karte korrespondierende Orte -> zusammengeschalten -> Zeitstrahl zusätzlich X-Achse Abstand zu Vorgängerort -> Lebensphasen mit vielen Ortswechseln -> später Live</li>
+    </ul>
+    <br/>
+    <hr/>
+    <ul>
     <li>Um zum einen einen möglichst schnellen Start der Dateneingabe zu gewährleisten und andererseits die Interoperabilität unserer Systeme zu gewährleisten baut MINE auf der APIS Platform auf. Wie Frau Prof. Lenz schon ausgeführt hat, wurde diese Applikation im Zuge des APIS Projektes entwickelt und wird seither in vielen verschiedenen prosopographischen Anwendungen angewendet und weiterentwickelt.</li>
     <li>SLIDE</>
     <li>Diese APIS Ebene bietet Formulare für die Dateneingabe. In diesem konkreten Fall handelt es sich um die Eingabe der Information, dass Heinrich Srbik von 1934 bis 1952 Mitglied der Finanzkommission war. Diese Formulare erlauben es Entitäten - also zb die Kommissionen der Akademie - direkt im Formular zu suchen, auszuwählen und anschliessend die Verbindung von Heinrich Srbik zu dieser Kommission abzuspeichern.</li>

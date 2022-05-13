@@ -28,6 +28,26 @@
 
 <aside class="notes">
     <ul>
+        <li>Daten ähnlich Applikation in Ebenen -> Basis primäre Quellen Akademis, Almanache, Archiv</li>
+        <li>SLIDE</li>
+        <li>Daten Akademis automatisch, Rest manuell</li>
+        <li>SLIDE</li>
+        <li>hauptsächlich Personen, Institutionendatensätze</li>
+        <il>SLIDE</il>
+        <li>Einträge GND -> Wikidata -> mehr Referenzen -> viele Links für Daten</li>
+        <li>SLIDE</li>
+        <li>Nicht nur MINE, auch PMB etc</li>
+        <li>SLIDE</li>
+        <li>daraus über GND etc verknüpft Netzwerk ÖAW Daten</li>
+        <li>SLIDE</li>
+        <li>selbes andere Länder -> Sampos, BiographyNET -> weit gröſere Quelle</li>
+        <li>SLIDE</li>
+        <li>wenn gleiche Datenmodelle -> Daten direkt wiederverwendbar -> CIDOC CRM -> weit verbreitet in DH -> ISO Standard -> InTaVia -> CIDOC basiert -> prosopographische Daten und Cultural Heritage
+        </li>
+    </ul>
+    <br/>
+    <hr/>
+    <ul>
     <li>Ähnlich zu der Applikation verstehen wir auch die Daten an sich in MINE in verschiedenen Ebenen. Die grundlegende Ebene wird durch die aus den Quellen Akademis, Almanache und Archiv eingegebenen Daten gestellt.</li>
     <li>SLIDE</li>
     <li>Dazu ist anzumerken, dass - wie zuvor schon erklärt - die Daten aus Akademis automatisch eingepflegt wurden, während der Rest händisch übernommen wurde.</li>
