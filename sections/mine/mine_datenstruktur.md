@@ -5,8 +5,6 @@
 <span class="fragment"></span>
 <span class="fragment"></span>
 <span class="fragment"></span>
-<span class="fragment"></span>
-<span class="fragment"></span>
 
 <div data-animate data-src="images/mine_data_layers_2.drawio.svg">
 <!--
@@ -28,22 +26,24 @@
 -->
 </div>
 
-Note:
-    Ähnlich zu der Applikation verstehen wir auch die Daten an sich in MINE in verschiedenen Ebenen. Die grundlegende Ebene wird durch die aus den Quellen Akademis, Almanache und Archiv eingegebenen Daten gestellt
-    SLIDE
-    Dazu ist anzumerken, dass wie zuvor schon erklärt die Daten aus Akademis automatisch eingepflegt wurden, während der Rest händisch übernommen wurde.
-    SLIDE
-    Daraus ergeben sich dann - neben anderen Datentypen - hauptsächlich Institutionen und Personendatensätze.
-    SLIDE
-    Die für diese Einräge erstellten GND Nummern verwenden wir dann um automatisch via Wikidata weitere Referenznummern zb vom Wien Geschichte Wiki oder der Neuen Deutschen Biographie abzufragen. Damit sind unsere lokalen Daten umfänglich mit Links in die Linked Open Data Cloud ausgestattet.
-    SLIDE
-    Diese Vorgangsweise wenden wir nicht nur bei MINE, sondern möglichst allen aber zumindest den neueren prosopographischen Datensammlungen an. Darunter zb die Daten des Österreichischen Biographischen Lexikon, der Personen der Modernen Basis, oder den vom IHB erstellten Ministerratsprotokolldaten.
-    SLIDE
-    Daraus ergibt sich dann eine über diese verwendeten Identifier miteinander verknüpfte Sammlung an Personen zu denen an der Akademie Daten erstellt wurden.
-    Ich muss dazu sagen, dass wir uns da mitterweile Richtung Ausblick begeben. Denn während dieses Netzwerk zwar theoretisch schon existiert nutzen wir die Vorteile daraus noch nicht richtig.
-    SLIDE
-    Denkt man dieses Netzwerk an Personendaten weiter - Projekte wie die Finnischen Sampos oder das Niederländische BiographyNET machen ganz ähnliche Dinge - ergibt sich daraus eine
-    noch weit größere Prosopographische Datenquelle.
-    SLIDE
-    Verwenden dann alle noch die selben Datenmodelle (oder können die Daten zumindest in diesen Formaten liefern) - wie den ISO Standard CIDOC CRM - kann man die Daten theoretisch sogar direkt und ohne Umwege wiederverwenden.
-    An solchen Standards für die Modellierung prosopographischer Daten arbeiten wir gemeinsam Mit KollegInnen aus anderen europäischen Ländern zb in dem Projekt InTaVia.
+<aside class="notes">
+    <ul>
+    <li>Ähnlich zu der Applikation verstehen wir auch die Daten an sich in MINE in verschiedenen Ebenen. Die grundlegende Ebene wird durch die aus den Quellen Akademis, Almanache und Archiv eingegebenen Daten gestellt.</li>
+    <li>SLIDE</li>
+    <li>Dazu ist anzumerken, dass - wie zuvor schon erklärt - die Daten aus Akademis automatisch eingepflegt wurden, während der Rest händisch übernommen wurde.</li>
+    <li>SLIDE</li>
+    <li>Daraus ergeben sich dann - neben anderen Datentypen - hauptsächlich Institutionen und Personendatensätze.</li>
+    <li>SLIDE</li>
+    <li>Die für diese Einräge erstellten GND Nummern verwenden wir dann um automatisch via Wikidata weitere Referenznummern zb vom Wien Geschichte Wiki oder der Neuen Deutschen Biographie abzufragen. Damit sind unsere lokalen Daten umfänglich mit Links in die Linked Open Data Cloud ausgestattet.</li>
+    <li>SLIDE</li>
+    <li>Diese Vorgangsweise wenden wir nicht nur bei MINE, sondern – perspektivisch gesprochen - möglichst in allen, aber zumindest den neueren prosopographischen Datensammlungen an. Darunter zb die Daten des Österreichischen Biographischen Lexikon, der Personen der Modernen Basis, oder den vom IHB erstellten Ministerratsprotokolldaten.</li>
+    <li>SLIDE</li>
+    <li>Daraus ergibt sich dann eine über diese verwendeten Identifier miteinander verknüpfte Sammlung an Personen, zu denen an der Akademie Daten erstellt wurden, die es zukünftig auszubauen gilt.</li>
+    <li>SLIDE</li>
+    <li>Denkt man dieses Netzwerk an Personendaten weiter - Projekte wie die Finnischen Sampos oder das Niederländische BiographyNET machen ganz ähnliche Dinge - ergibt sich daraus eine
+    noch weit größere Prosopographische Datenquelle.</li>
+    <li>SLIDE<li>
+    <li>Verwenden dann alle noch die selben Datenmodelle (oder können die Daten zumindest in diesen Formaten liefern) - wie den ISO Standard CIDOC CRM - kann man die Daten theoretisch sogar direkt und ohne Umwege wiederverwenden.
+    An solchen Standards für die Modellierung prosopographischer Daten arbeiten wir gemeinsam mit KollegInnen aus anderen europäischen Ländern zb in dem Projekt InTaVia.</li>
+    </ul>
+</aside>
