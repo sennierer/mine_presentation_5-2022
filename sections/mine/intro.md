@@ -1,6 +1,6 @@
 ### Ausgangsfragen für die Entwicklung von MINE
 
-- Wie können Synergien zwischen verschiedenen prosopographischen Forschungsprojekten sichergestellt werden?<!-- .element: class="fragment" -->
+- Wie können Synergien zwischen verschiedenen prosopographischen Forschungsprojekten sichergestellt werden?
 - Wie können Vorteile der Linked Open Data Cloud genutzt werden, ohne die Qualität der Forschung zu beeinträchtigen?<!-- .element: class="fragment" -->
 - Wie ist die Nachnutzbarkeit der Daten sicherzustellen?<!-- .element: class="fragment" -->
 
