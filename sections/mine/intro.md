@@ -7,7 +7,7 @@
 
 <aside class="notes">
     <ul>
-    <li>Schon als wir im Jahr 2015 mit der Entwicklung für das APIS Projekt an der ÖAW und darüber hinaus, in deren Fokus v. a. personen-, orts- oder ereignisbezogene Daten stehen, ähnliche technische Anforderungen mit sich bringen, die ähnliche Datenbanken, Suchmöglichkeiten etc. benötigen.</li>
+    <li>Schon als wir im Jahr 2015 mit der Entwicklung für das APIS Projekt begonnen haben, war schnell klar, dass viele Projekte an der ÖAW und darüber hinaus, in deren Fokus v. a. personen-, orts- oder ereignisbezogene Daten stehen, vergleichbare technische Anforderungen mit sich bringen, die ähnliche Datenbanken, Suchmöglichkeiten etc. benötigen.</li>
     <li>Wir haben deshalb schon sehr bald begonnen, das APIS-System modular und sehr allgemein aufzustellen und die spezifischen Notwendigkeiten einzelner Projekte - also projektspezifische Visualisierungen, Abfragemöglichkeiten oder auch das Layout - in eigene Module auszulagern.
     Wir werden später noch sehen wie dieser modulare Aufbau im Falle von MINE aussieht.</li>
     <li>SLIDE</li>
